@@ -1,0 +1,33 @@
+#wrapper{
+    background-color: lightgoldenrodyellow;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    padding: 10px;
+}
+
+#boxhold{
+    margin: 0px auto;
+    width: 900px;
+}
+.box{
+    background-color: greenyellow;
+    border-radius: 5px;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px auto;
+}
+
+#activityLog{
+    margin: 0px auto;
+    height: 200px;
+    overflow: scroll;
+}
+.green{
+    color: green;
+}
+.red{
+    color: red;
+}
